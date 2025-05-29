@@ -1,5 +1,3 @@
-Questão 7
-
 # Linguagem-C
 
 
